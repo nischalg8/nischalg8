@@ -1,7 +1,8 @@
 <!-- ======================= BANNER ======================= -->
 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=200&section=header&text=Nischal%20Ghimire&fontSize=40&fontColor=38BDF8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=200&section=header&text=Hi,%20there%20I%20am%20Nischal&fontSize=40&fontColor=38BDF8" />
 </p>
 
 <p align="center">
