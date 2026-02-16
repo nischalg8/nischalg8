@@ -43,18 +43,20 @@ me = Developer()
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,django,fastapi,react,postgres,mysql,mongodb,linux,git,docker&theme=dark" />
 </p>
+
 ---
 
 # 📊 stats()
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nischalg8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nischalg8&theme=tokyonight&hide_border=true" width="48%" />
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=nischalg8&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
+<!-- for top languages  -->
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nischalg8&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
+</p> -->
 
 ---
 
