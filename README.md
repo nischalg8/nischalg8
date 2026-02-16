@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-<img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Python+Backend+Developer;Django+%7C+FastAPI+%7C+React;Data+Science+ %7C+AI%2FML+%7C+Deep+Learning" 
+<img style="margin-top:-25px;"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Python+Backend+Developer;Django+%7C+FastAPI+%7C+React;Data+Science+%7C+AI%2FML+%7C+Deep+Learning" 
   alt="Typing animation showing skills"
 />
 
@@ -74,8 +74,12 @@ me = Developer()
 
 # 🐍 contribution_snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nischalg8/nischalg8/output/dist/github-contribution-grid-snake-dark.svg" />
+<p align="center" style="background-color:#0D1117; padding: 15px; border-radius: 15px;">
+  <img 
+    src="https://raw.githubusercontent.com/nischalg8/nischalg8/output/dist/github-contribution-grid-snake-dark.svg" 
+    width="100%" 
+    style="border-radius:10px;"
+  />
 </p>
 
 ---
