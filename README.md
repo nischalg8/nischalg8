@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Python+Backend+Developer;Django+%7C+FastAPI;Learning+React+%26;Deep+Learning+with+Pytorch;Linux+%7C+Docker+%7C+Git" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Python+Backend+Developer;Django+%7C+FastAPI+%7C+React;Deep+Learning+with+Pytorch;AI+%7C+ML+%7C+DL" />
 </p>
 
 ---
