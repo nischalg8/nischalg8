@@ -44,6 +44,7 @@ class Developer:
 me = Developer()
 ```
 ---
+# ⚒️ show_skill_icons()
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,django,fastapi,react,postgres,mysql,mongodb,linux,git,docker&theme=dark" />
@@ -51,7 +52,7 @@ me = Developer()
 
 ---
 
-# 📊 stats()
+# 📊 show_stats()
 
 <p align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com?user=nischalg8&theme=tokyonight&hide_border=true" width="48%" />
@@ -65,7 +66,7 @@ me = Developer()
 
 ---
 
-# 📈 contribution_graph()
+# 📈 show_contribution_graph()
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nischalg8&theme=tokyonight" />
@@ -73,7 +74,7 @@ me = Developer()
 
 ---
 
-# 🐍 contribution_snake
+# 🐍 show_contribution_snake()
 
 <p align="center" style="background-color:#0D1117; padding: 15px; border-radius: 15px;">
   <img 
